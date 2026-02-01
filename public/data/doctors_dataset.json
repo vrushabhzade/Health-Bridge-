@@ -1,0 +1,387 @@
+[
+  {
+    "id": "doc-1",
+    "name": "Oshin Clinic",
+    "address": "Pipla Fata, Shop No 24 Ground Floor, Hudkeshwar Rd, Nagpur, Maharashtra 440034, India",
+    "phone": "+91 80106 19813",
+    "email": "smb_web@support.whatsapp.com",
+    "location": {
+      "lat": 21.0791428,
+      "lng": 79.1256675,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440034"
+    },
+    "website": "https://wa.me/918010619813",
+    "rating": 5,
+    "ratingCount": 39,
+    "specialty": "Doctors",
+    "allSpecialties": [],
+    "qualification": "Verified Practice",
+    "distance": 2.3,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Oshin%20Clinic&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/profile.php?id=100064758844406",
+      "instagram": "https://www.instagram.com/whatsapp/?hl=en",
+      "linkedin": null,
+      "twitter": "https://twitter.com/whatsapp",
+      "whatsapp": "https://wa.me/918010619813",
+      "youtube": "https://www.youtube.com/channel/UCAuerig2N-RZWJT8x75V9yw"
+    }
+  },
+  {
+    "id": "doc-2",
+    "name": "Dr. Rohan Kamalakar Umalkar",
+    "address": "No 32, Behind Hitavada Press, Dhantoli, Nagpur, Maharashtra 440012, India",
+    "phone": "+91 96060 47044",
+    "email": "help@pristyncare.com",
+    "location": {
+      "lat": 21.1326972,
+      "lng": 79.0784722,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440012"
+    },
+    "website": "https://www.pristyncare.com/nagpur/?utm_source=clinic-gmb&utm_medium=organic&utm_campaign=",
+    "rating": 4.5,
+    "ratingCount": 0,
+    "specialty": "Surgeons",
+    "allSpecialties": [
+      "Surgeons",
+      "Surgical centers",
+      "Specialized clinics",
+      "Walk-in clinics",
+      "Vascular surgeons",
+      "Urologists",
+      "Urology clinics",
+      "Bariatric surgeons",
+      "Weight loss services"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 12.4,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Rohan%20Kamalakar%20Umalkar&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/pristyncareclinics/",
+      "instagram": "https://www.instagram.com/pristyncare_surgeries/",
+      "linkedin": "https://www.linkedin.com/company/pristyncare/",
+      "twitter": "https://twitter.com/PristynCare/",
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/channel/UCYx6O5ltWUVi8xzEGkM0WYQ/"
+    }
+  },
+  {
+    "id": "doc-3",
+    "name": "Dr. Mohite's Fetal Medicine & Genetic Counseling Clinic",
+    "address": "A” Wing, 1st Floor, Neeti-Gaurav Complex, Central Bazar Road, opposite Medicure Multispeciality Clinic, Ramdaspeth, Nagpur, Maharashtra 440010, India",
+    "phone": "+91 70208 29056",
+    "email": "drmohitefetalmed@gmail.com",
+    "location": {
+      "lat": 21.1350016,
+      "lng": 79.0772185,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440010"
+    },
+    "website": "https://nagpurfetalmedicine.com/",
+    "rating": 4.8,
+    "ratingCount": 14,
+    "specialty": "Medical Centers",
+    "allSpecialties": [
+      "Hospitals",
+      "Medical Centers",
+      "Gynecologists",
+      "Pregnancy care centers"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 2.2,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Mohites%20Fetal%20Medicine%20%20Genetic%20Counseling%20Clinic&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/drmohitefetal/",
+      "instagram": "https://www.instagram.com/fetalmedicinenagpur/",
+      "linkedin": "https://www.linkedin.com/company/dralhadmohite/)",
+      "twitter": "https://twitter.com/AlhadMohite",
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/channel/UCTtcffr23IXPpCztQCGpk-g"
+    }
+  },
+  {
+    "id": "doc-4",
+    "name": "SKINPOD DERMALOGICA",
+    "address": "540 Clarke Town, Railway Crossing, near Mangalwari, Sadar, Nagpur, Maharashtra 440004, India",
+    "phone": "+91 95271 77100",
+    "email": "dr.tuli@skinpod.in",
+    "location": {
+      "lat": 21.1667014,
+      "lng": 79.0862319,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440004"
+    },
+    "website": "http://www.skinpod.in/",
+    "rating": 4.7,
+    "ratingCount": 29,
+    "specialty": "Skin care clinics",
+    "allSpecialties": [
+      "Skin care clinics"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 7.2,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=SKINPOD%20DERMALOGICA&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/skinpod.in/",
+      "instagram": "https://instagram.com/skinpod.in?igshid=mdppyrk6r92k",
+      "linkedin": null,
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "doc-5",
+    "name": "Dr. G.M. Taori Central India Institute of Medical Sciences",
+    "address": "88, 2, Bajaj Nagar, Nagpur, Maharashtra 440010, India",
+    "phone": "+91 712 668 7777",
+    "email": "ciimsngp@gmail.com",
+    "location": {
+      "lat": 21.1285562,
+      "lng": 79.0612479,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440010"
+    },
+    "website": "http://www.ciimsnagpur.com/",
+    "rating": 3.7,
+    "ratingCount": 650,
+    "specialty": "General hospitals",
+    "allSpecialties": [
+      "Hospitals",
+      "General hospitals"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 12.9,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=GM%20Taori%20Central%20India%20Institute%20of%20Medical%20Sciences&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/ciimshospitalnagpur/",
+      "instagram": "https://www.instagram.com/ciimshospitalnagpur/",
+      "linkedin": null,
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/channel/UCs90_x0BDmenpUOhYccR4LQ"
+    }
+  },
+  {
+    "id": "doc-6",
+    "name": "INC CLINIC NAGPUR",
+    "address": "Kirti Appartment 7, Block No. 1/2, NH6, Nandanvanam Main Rd, Shiv Nagar, Azamshah Layout, Nagpur, Maharashtra 440024, India",
+    "phone": "+91 88888 33193",
+    "email": "info@incswarnaprashan.com",
+    "location": {
+      "lat": 21.13388,
+      "lng": 79.119151,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440024"
+    },
+    "website": "http://www.incswarnaprashan.com/",
+    "rating": 4.8,
+    "ratingCount": 85,
+    "specialty": "Naturopathic practitioners",
+    "allSpecialties": [
+      "Naturopathic practitioners",
+      "Ayurvedic clinics"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 3,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=INC%20CLINIC%20NAGPUR&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/incswarnaprashan",
+      "instagram": "https://www.instagram.com/incswarnaprashan/",
+      "linkedin": null,
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": null
+    }
+  },
+  {
+    "id": "doc-7",
+    "name": "Chhabrani Hospital",
+    "address": "Mahalaxmi Chamber, Darodkar Square, C A Road, C A Road, Nagpur, Maharashtra 440002, India",
+    "phone": "+91 712 276 4856",
+    "email": "girishchhabrani1@gmail.com",
+    "location": {
+      "lat": 21.1458004,
+      "lng": 79.0881546,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440002"
+    },
+    "website": "http://www.drchhabrani.com/",
+    "rating": 5,
+    "ratingCount": 4,
+    "specialty": "Doctors",
+    "allSpecialties": [],
+    "qualification": "Verified Practice",
+    "distance": 12.4,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Chhabrani%20Hospital&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/drchhabrani/",
+      "instagram": "https://www.instagram.com/dr_chhabrani_dental_clinic/",
+      "linkedin": "https://in.linkedin.com/in/girish-chhabrani-b5652a198",
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/@girish238"
+    }
+  },
+  {
+    "id": "doc-8",
+    "name": "Dr. Swapna Khanzode (MD Doctor, Diabetologist, Internal Medicine, Critical Care)",
+    "address": "402A, shubhashish square complex, Shradddhanand peth square, above tanishq showroom, Nagpur, Maharashtra 440010, India",
+    "phone": "+91 98200 86966",
+    "email": "swapna.khanzode@gmail.com",
+    "location": {
+      "lat": 21.124846,
+      "lng": 79.0586973,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440010"
+    },
+    "website": "https://drswapnakhanzode.com/",
+    "rating": 5,
+    "ratingCount": 149,
+    "specialty": "General practitioners",
+    "allSpecialties": [
+      "General practitioners"
+    ],
+    "qualification": "Verified Practice",
+    "distance": 6.4,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Swapna%20Khanzode%20MD%20Doctor%20Diabetologist%20Internal%20Medicine%20Critical%20Care&background=random&color=fff&size=200",
+    "isFemale": true,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/profile.php?id=100069304913278",
+      "instagram": "https://www.instagram.com/dr_swapnakhanzode/",
+      "linkedin": "https://in.linkedin.com/in/dr-swapna-khanzode-62793530",
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/@swapnakhanzode"
+    }
+  },
+  {
+    "id": "doc-9",
+    "name": "Dr Nitin Kimmatkar",
+    "address": "Plot No 274, Bhaktivihar Apartment, Central Ave, beside dominos Pizza, Chapru Nagar, Queta Colony, Square, Nagpur, Maharashtra 440008, India",
+    "phone": "+91 98230 78806",
+    "email": "kimmatkarnitin@gmail.com",
+    "location": {
+      "lat": 21.1488946,
+      "lng": 79.1242911,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440008"
+    },
+    "website": "http://drnitinkimmatkar.com/",
+    "rating": 4.9,
+    "ratingCount": 152,
+    "specialty": "Doctors",
+    "allSpecialties": [],
+    "qualification": "Verified Practice",
+    "distance": 4.5,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Dr%20Nitin%20Kimmatkar&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/kimmatkarnitin",
+      "instagram": null,
+      "linkedin": "https://www.linkedin.com/in/dr-nitin-kimmatkar-pelviacetabular-nitinkimmatkarorthospinehipknee/",
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": "https://www.youtube.com/channel/UCy9DNworylSW2-VKJPjmnFQ"
+    }
+  },
+  {
+    "id": "doc-10",
+    "name": "Dr Suneet Sud : - General, Laparoscopic & Colorectal Surgeon in Nagpur",
+    "address": "Safal Hospital, 47, Ajni Railway Station Road, opposite Dhanwate National College, Congress Nagar, Dhantoli, Nagpur, Maharashtra 440012, India",
+    "phone": "+91 712 245 0465",
+    "email": "divasafalhospital@gmail.com",
+    "location": {
+      "lat": 21.1288957,
+      "lng": 79.0827966,
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "zip": "440012"
+    },
+    "website": "http://safalhospital.in/doctor_suneet.html",
+    "rating": 4.8,
+    "ratingCount": 27,
+    "specialty": "Doctors",
+    "allSpecialties": [],
+    "qualification": "Verified Practice",
+    "distance": 14,
+    "languages": [
+      "Marathi",
+      "Hindi",
+      "English"
+    ],
+    "image": "https://ui-avatars.com/api/?name=Dr%20Suneet%20Sud%20%20%20General%20Laparoscopic%20%20Colorectal%20Surgeon%20in%20Nagpur&background=random&color=fff&size=200",
+    "isFemale": false,
+    "socialMedia": {
+      "facebook": "https://www.facebook.com/Safal-Hospital-2117112871635432/",
+      "instagram": null,
+      "linkedin": null,
+      "twitter": null,
+      "whatsapp": null,
+      "youtube": null
+    }
+  }
+]
